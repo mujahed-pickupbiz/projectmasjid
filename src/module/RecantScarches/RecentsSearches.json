@@ -1,0 +1,66 @@
+[
+    {
+        "Title":"Stays in Mumbai",
+        "Link":"/listhotels",
+        "Data":"Sat. 7 Dec-Mon. 9 Dec",
+        "Travellers":"10 travellers . 1 room"
+    },
+    {
+        "Title":"Stays in Nakpur",
+        "Link":"/listhotels",
+        "Data":"Sat. 7 Dec-Mon. 9 Dec",
+        "Travellers":"12 travellers . 1 room"
+    },
+    {
+        "Title":"Stays in Aurangabd",
+        "Link":"/listhotels",
+        "Data":"Sat. 7 Dec-Mon. 9 Dec",
+        "Travellers":"2 travellers . 1 room"
+    },
+
+    {
+        "Title":"Stays in Pune",
+        "Link":"/listhotels",
+        "Data":"Sat. 7 Dec-Mon. 9 Dec",
+        "Travellers":"6 travellers . 1 room"
+    },
+
+    {
+        "Title":"Stays in Haydrabad",
+        "Link":"/listhotels",
+        "Data":"Sat. 7 Dec-Mon. 9 Dec",
+        "Travellers":"4 travellers . 1 room"
+    },
+    {
+        "Title":"Stays in Mumbai",
+        "Link":"/listhotels",
+        "Data":"Sat. 7 Dec-Mon. 9 Dec",
+        "Travellers":"10 travellers . 1 room"
+    },
+    {
+        "Title":"Stays in Nakpur",
+        "Link":"/listhotels",
+        "Data":"Sat. 7 Dec-Mon. 9 Dec",
+        "Travellers":"12 travellers . 1 room"
+    },
+    {
+        "Title":"Stays in Aurangabd",
+        "Link":"/listhotels",
+        "Data":"Sat. 7 Dec-Mon. 9 Dec",
+        "Travellers":"2 travellers . 1 room"
+    },
+
+    {
+        "Title":"Stays in Pune",
+        "Link":"/listhotels",
+        "Data":"Sat. 7 Dec-Mon. 9 Dec",
+        "Travellers":"6 travellers . 1 room"
+    },
+
+    {
+        "Title":"Stays in Haydrabad",
+        "Link":"/listhotels",
+        "Data":"Sat. 7 Dec-Mon. 9 Dec",
+        "Travellers":"4 travellers . 1 room"
+    }
+]

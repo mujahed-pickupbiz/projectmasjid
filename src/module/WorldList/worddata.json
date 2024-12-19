@@ -1,0 +1,73 @@
+{
+    "hotelList1": [
+      "Hotels in Dubai",
+      "Hotels in Paris",
+      "Hotels in London",
+      "Hotels in Mumbai",
+      "Hotels in New York",
+      "Hotels in Bangkok",
+      "Hotels in New Delhi",
+      "Hotels in Singapore",
+      "Hotels in Hyderabad",
+      "Hotels in Bengaluru",
+      "Hotels in Amsterdam",
+      "Hotels in Kolkata",
+      "Hotels in Jaipur",
+      "Hotels in Istanbul",
+      "Hotels in Pune",
+      "Hotels in Chennai",
+      "Hotels in Hong Kong",
+      "Hotels in Rome",
+      "Hotels in Las Vegas",
+      "Hotels in Krabi",
+      "Hotels in Kuala Lumpur",
+      "Hotels in Barcelona",
+      "Hotels in Agra",
+      "Hotels in Tokyo",
+      ""
+    ],
+    "hotelList2": [
+      "Hotels in Maldives",
+      "Hotels in Singapore",
+      "Hotels in Mauritius",
+      "Hotels in Seychelles",
+      "Hotels in Sri Lanka",
+      "Hotels in India",
+      "Hotels in South Mumbai",
+      "Hotels in Cappadocia",
+      "Hotels in Langkawi",
+      "Hotels in Mumbai Suburban",
+      "Hotels in Andaman and Nicobar Islands",
+      "Hotels in Wayanad District",
+      ""
+    ],
+    "usefulLinks": [
+      "Your bookings",
+      "FAQs",
+      "Contact us",
+      "Review a property",
+      ""
+    ],
+    "businessOpportunities": [
+      "Affiliate with us",
+      "Newsroom",
+      "Expedia Partner Solutions",
+      "Promote with us",
+      "Travel Agents",
+      ""
+    ],
+    "legalInfo": [
+      "Terms & Conditions",
+      "Privacy",
+      "Cookies",
+      "Content guidelines and reporting content",
+      ""
+    ],
+    "companyInfo": [
+      "About us",
+      "Careers",
+      "Travel Guides",
+      ""
+    ]
+  }
+  

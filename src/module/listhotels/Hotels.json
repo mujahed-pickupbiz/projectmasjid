@@ -1,0 +1,107 @@
+[
+    {
+       
+        "images":
+        [
+        "https://i.pinimg.com/736x/6b/61/9b/6b619b18f89bcdceec7e223c28e99f8e.jpg",
+        "https://i.pinimg.com/736x/36/34/f3/3634f3241c6e022cc55f96a428de96d9.jpg",
+        "https://i.pinimg.com/736x/eb/39/29/eb3929dc7274b7b5bdfd5bafb1a77a69.jpg",
+        "https://i.pinimg.com/736x/7c/61/a9/7c61a915bc61395c9b281f81c8b38437.jpg",
+        "https://i.pinimg.com/736x/df/7b/4e/df7b4eb27ec7d7de8943f1b8f4410bdf.jpg"
+        ],
+
+        "icons":"",
+        "viwed":"",
+        "title":"Hotel Ajual",
+        "addres":"Aurangabad",
+        "member":"Memeber Per Parsan 20% off",
+        "descount":"3,300",
+        "rs":"2,500",
+        "total":"120.400",
+        "roms":"4"
+    },
+    {
+       
+        "images":
+        [
+        "https://i.pinimg.com/736x/0a/ab/7b/0aab7bfdcb97c0ff3293697d1d1a2303.jpg",
+        "https://i.pinimg.com/736x/58/c9/46/58c946f13015e9e0703b93700a854f4a.jpg",
+        "https://i.pinimg.com/736x/ae/59/db/ae59db3be049d043db3a32f8e7f93de1.jpg",
+        "https://i.pinimg.com/736x/ae/59/db/ae59db3be049d043db3a32f8e7f93de1.jpg",
+        "https://i.pinimg.com/736x/ae/59/db/ae59db3be049d043db3a32f8e7f93de1.jpg"
+        ],
+
+        "icons":"",
+        "viwed":"",
+        "title":"Hotel Gerren Chely",
+        "addres":"Beed",
+        "member":"Memeber Per Parsan 20% off",
+        "descount":"4,300",
+        "rs":"4,000",
+        "total":"80.400",
+        "roms":"4"
+    },
+    {
+       
+        "images":
+        [
+        "https://i.pinimg.com/736x/ae/59/db/ae59db3be049d043db3a32f8e7f93de1.jpg",
+        "https://i.pinimg.com/736x/97/fb/7b/97fb7b376532a0397102ca6e0ce34571.jpg",
+        "https://i.pinimg.com/736x/eb/39/29/eb3929dc7274b7b5bdfd5bafb1a77a69.jpg",
+        "https://i.pinimg.com/736x/7c/61/a9/7c61a915bc61395c9b281f81c8b38437.jpg",
+        "https://i.pinimg.com/736x/df/7b/4e/df7b4eb27ec7d7de8943f1b8f4410bdf.jpg"
+        ],
+
+        "icons":"",
+        "viwed":"",
+        "title":"Hotel Iraney ",
+        "addres":"Nanded",
+        "member":"Memeber Per Parsan 20% off",
+        "descount":"7,300",
+        "rs":"6,500",
+        "total":"90.400",
+        "roms":"4"
+    },
+    {
+       
+        "images":
+        [
+        "https://i.pinimg.com/736x/97/fb/7b/97fb7b376532a0397102ca6e0ce34571.jpg",
+        "https://i.pinimg.com/736x/36/34/f3/3634f3241c6e022cc55f96a428de96d9.jpg",
+        "https://i.pinimg.com/736x/eb/39/29/eb3929dc7274b7b5bdfd5bafb1a77a69.jpg",
+        "https://i.pinimg.com/736x/7c/61/a9/7c61a915bc61395c9b281f81c8b38437.jpg",
+        "https://i.pinimg.com/736x/df/7b/4e/df7b4eb27ec7d7de8943f1b8f4410bdf.jpg"
+        ],
+
+        "icons":"",
+        "viwed":"",
+        "title":"Hotel Star baces",
+        "addres":"Pune",
+        "member":"Memeber Per Parsan 20% off",
+        "descount":"4,500",
+        "rs":"3,500",
+        "total":"94.400",
+        "roms":"4"
+    },
+    {
+       
+        "images":
+        [
+        "https://i.pinimg.com/736x/df/07/dc/df07dc0bf63a948c387d3280f1d69852.jpg",
+        "https://i.pinimg.com/736x/36/34/f3/3634f3241c6e022cc55f96a428de96d9.jpg",
+        "https://i.pinimg.com/736x/eb/39/29/eb3929dc7274b7b5bdfd5bafb1a77a69.jpg",
+        "https://i.pinimg.com/736x/7c/61/a9/7c61a915bc61395c9b281f81c8b38437.jpg",
+        "https://i.pinimg.com/736x/df/7b/4e/df7b4eb27ec7d7de8943f1b8f4410bdf.jpg"
+        ],
+
+        "icons":"",
+        "viwed":"",
+        "title":"Hotel Blustart",
+        "addres":"Lonavala",
+        "member":"Memeber Per Parsan 20% off",
+        "descount":"5,300",
+        "rs":"4,400",
+        "total":"79.400",
+        "roms":"4"
+    }
+]

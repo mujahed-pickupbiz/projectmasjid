@@ -1,0 +1,50 @@
+ [
+    {
+      "image": "https://i.pinimg.com/736x/38/58/7a/38587a39be71d3cc9cc3e5fe597f19e7.jpg",
+      "title": "Sunset in the Mountains",
+       "Link":"listhotels",
+      "addres": "India"
+    },
+    {
+      "image": "https://i.pinimg.com/736x/0f/0c/4b/0f0c4b47cac22f43efd922eebc158e9d.jpg",
+      "title": "Cityscape at Night",
+       "Link":"listhotels",
+      "addres": "Seychelles"
+    },
+    {
+      "image": "https://i.pinimg.com/736x/9a/61/67/9a6167bfb292964c42bc5a2e22ff2eb1.jpg",
+      "title": "Ocean View",
+       "Link":"listhotels",
+      "addres": "Thailand"
+    },
+    {
+      "image": "https://i.pinimg.com/736x/24/3d/4c/243d4c825501a9fb936ee4f76b36ffac.jpg",
+      "title": "Desert Landscape",
+       "Link":"listhotels",
+      "addres": "Karla"
+    },
+    {
+      "image": "https://i.pinimg.com/736x/47/46/24/4746244678b50df709315801c2f89621.jpg",
+      "title": "Sunset in the Mountains",
+       "Link":"listhotels",
+      "addres": "Banglor"
+    },
+    {
+      "image": "https://i.pinimg.com/736x/87/80/66/878066cd97748e5d674cab6ee08b469b.jpg",
+      "title": "Cityscape at Night",
+       "Link":"/listhotels",
+      "addres": "Kashmer"
+    },
+    {
+      "image": "https://i.pinimg.com/736x/80/34/3f/80343fb6abb74c818b94bd20ccc882ee.jpg",
+      "title": "Ocean View",
+       "Link":"listhotels",
+      "addres": "Thailand"
+    },
+    {
+      "image": "https://i.pinimg.com/736x/b2/7d/1a/b27d1aa1978fb57cd24951948b5fa9e8.jpg",
+      "title": "Desert Landscape",
+       "Link":"listhotels",
+      "addres": "India"
+    }
+  ]
